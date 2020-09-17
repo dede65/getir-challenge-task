@@ -13,4 +13,4 @@ Run npm run test to execute test files. This project uses Jest test framework po
 POST /records -> This request will return documents which are between specified start and end date as well as sum of values in counts array between specified min and max values
 
 ## Heroku production url
-https://getir-challenge-task.herokuapp.com/records
+https://getir-challenge-task.herokuapp.com/
